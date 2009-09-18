@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'neustastaging'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="pages.tx_neustastaging_staging">staging</label>
+			<label index="tx_neustastaging_files">Files to next stage</label>
+			<label index="tx_neustastaging_files.path">Filepath</label>
+			<label index="tx_neustastaging_log">Staging Log</label>
+			<label index="tx_neustastaging_log.time">Date and time</label>
+			<label index="tx_neustastaging_log.user">User</label>
+			<label index="tx_neustastaging_log.pages">Pages</label>
+			<label index="tx_neustastaging_log.files">Files</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="pages.tx_neustastaging_staging">Staging</label>
+			<label index="tx_neustastaging_files">Dateien für nächstes Update</label>
+			<label index="tx_neustastaging_files.path">Pfad zur Datei / zum Ordner</label>
+			<label index="tx_neustastaging_log">Log-Einträge (Staging)</label>
+			<label index="tx_neustastaging_log.time">Datum / Uhrzeit</label>
+			<label index="tx_neustastaging_log.user">Benutzer</label>
+			<label index="tx_neustastaging_log.pages">Seiten</label>
+			<label index="tx_neustastaging_log.files">Dateien</label>
+		</languageKey>
+	</data>
+</T3locallang>

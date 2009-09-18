@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for Neustastaging Logging Class</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="user">User</label>
+			<label index="time">Time</label>
+			<label index="pages">Pages</label>
+			<label index="files">Files</label>
+        </languageKey>
+		<languageKey index="de" type="array">
+            <label index="user">Benutzer</label>
+			<label index="time">Datum und Zeit</label>
+			<label index="pages">Seiten</label>
+			<label index="files">Dateien</label>
+		</languageKey>
+	</data>
+</T3locallang>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for module &quot;web_txneustastagingM1&quot; - header, description</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="mlang_tabs_tab">Page Staging</label>
+			<label index="mlang_labels_tabdescr">Page Staging Module, enables you to select pages you have updated and send them to the next stage in the publishing process</label>
+			<label index="mlang_labels_tablabel">Page Staging Module, copy changed pages to the next server.</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="mlang_tabs_tab">Veröffentlichung (Seiten)</label>
+			<label index="mlang_labels_tabdescr">Das Seiten-Veröffentlichungsmodul ermoeglicht den Transfer von bearbeiteten Seiten auf den naechsten Server im Staging-Prozess</label>
+			<label index="mlang_labels_tablabel">Das Seiten-Veröffentlichungsmodul ermoeglicht den Transfer von bearbeiteten Seiten auf den naechsten Server im Staging-Prozess</label>
+		</languageKey>
+	</data>
+	<orig_hash type="array">
+		<languageKey index="de" type="array">
+			<label index="mlang_tabs_tab" type="integer">211346000</label>
+			<label index="mlang_labels_tabdescr" type="integer">207012850</label>
+			<label index="mlang_labels_tablabel" type="integer">89269242</label>
+		</languageKey>
+	</orig_hash>
+	<orig_text type="array">
+		<languageKey index="de" type="array">
+			<label index="mlang_tabs_tab">Page Staging</label>
+			<label index="mlang_labels_tabdescr">Page Staging Module, enables you to select pages you have updated and send them to the next stage in the publishing process</label>
+			<label index="mlang_labels_tablabel">Page Staging Module, copy changed pages to the next server.</label>
+		</languageKey>
+	</orig_text>
+</T3locallang>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for module &quot;file_txneustastagingM2&quot; - header, description</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="mlang_tabs_tab">File Staging</label>
+			<label index="mlang_labels_tabdescr">File Staging Module, enables you to select files you have updated and send them to the next stage in the publishing process</label>
+			<label index="mlang_labels_tablabel">File Staging Module, enables you to select files you have updated and send them to the next stage in the publishing process</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="mlang_tabs_tab">Veröffentlichung (Dateien)</label>
+			<label index="mlang_labels_tabdescr">Das Dateien-Veröffentlichungsmodul ermöglicht den Transfer von bearbeiteten Dateien auf den nächsten Server im Staging-Prozess</label>
+			<label index="mlang_labels_tablabel">Das Dateien-Veröffentlichungsmodul ermöglicht den Transfer von bearbeiteten Dateien auf den nächsten Server im Staging-Prozess</label>
+		</languageKey>
+	</data>
+	<orig_hash type="array">
+		<languageKey index="de" type="array">
+			<label index="mlang_tabs_tab" type="integer">136733616</label>
+			<label index="mlang_labels_tabdescr" type="integer">16611127</label>
+			<label index="mlang_labels_tablabel" type="integer">16611127</label>
+		</languageKey>
+	</orig_hash>
+	<orig_text type="array">
+		<languageKey index="de" type="array">
+			<label index="mlang_tabs_tab">File Staging</label>
+			<label index="mlang_labels_tabdescr">File Staging Module, enables you to select files you have updated and send them to the next stage in the publishing process</label>
+			<label index="mlang_labels_tablabel">File Staging Module, enables you to select files you have updated and send them to the next stage in the publishing process</label>
+		</languageKey>
+	</orig_text>
+</T3locallang>

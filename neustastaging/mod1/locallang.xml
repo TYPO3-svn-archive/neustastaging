@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for module &quot;web_txneustastagingM1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="title">Page Staging</label>
+			<label index="function1">Function #1</label>
+			<label index="stepone">Step One</label>
+			<label index="steptwo">Step Two</label>
+			<label index="selectpages">Please select the page you want to submit in the pagetree on the left. If you want to submit multiple pages click on the parent page and check the option &quot;include subpages&quot;.</label>
+			<label index="currentselection">This is your current selection:</label>
+			<label index="areyousure">Are you sure?</label>
+			<label index="submit">Submit</label>
+			<label index="back">back</label>
+			<label index="subpages">Include subpages</label>
+			<label index="selectedpages">The following pages will be submitted:</label>
+			<label index="success">Your operation was successfull.</label>
+			<label index="failure">Your operation DID NOT succeed.</label>
+			<label index="options">Options</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="title">Veröffentlichung (Seiten)</label>
+			<label index="function1">Function #1</label>
+			<label index="stepone">Schritt 1 von 2</label>
+			<label index="steptwo">Schritt 2 von 2</label>
+			<label index="selectpages">Bitte wählen Sie die Seite, die Sie aktualisiern möchten, im Seitenbaum links aus. Wollen Sie mehrere Seiten aktualisieren wählen Sie die Elternseite und aktivieren Sie die Checkbox &quot;inklusive Unterseiten&quot;.</label>
+			<label index="currentselection">Dies ist Ihre aktuelle Auswahl:</label>
+			<label index="areyousure">Sind Sie sicher?</label>
+			<label index="submit">Absenden.</label>
+			<label index="back">zurück</label>
+			<label index="subpages">Inklusive Unterseiten</label>
+			<label index="selectedpages">Die folgenden Seiten werden übertragen:</label>
+			<label index="success">Das Update der gewünschten Seiten war erfolgreich.</label>
+			<label index="failure">Update fehlgeschlagen! Bitte probieren Sie es noch einmal.</label>
+			<label index="options">Optionen</label>
+		</languageKey>
+	</data>
+	<orig_hash type="array">
+		<languageKey index="de" type="array">
+			<label index="title" type="integer">211346000</label>
+			<label index="function1" type="integer">209170062</label>
+			<label index="stepone" type="integer">18838212</label>
+			<label index="steptwo" type="integer">162659035</label>
+			<label index="selectpages" type="integer">84883764</label>
+			<label index="currentselection" type="integer">106248121</label>
+			<label index="areyousure" type="integer">120169752</label>
+			<label index="submit" type="integer">172833558</label>
+			<label index="back" type="integer">74038176</label>
+			<label index="subpages" type="integer">165568962</label>
+			<label index="selectedpages" type="integer">149098750</label>
+			<label index="success" type="integer">158016512</label>
+			<label index="failure" type="integer">190410690</label>
+			<label index="options" type="integer">229542606</label>
+		</languageKey>
+	</orig_hash>
+	<orig_text type="array">
+		<languageKey index="de" type="array">
+			<label index="title">Page Staging</label>
+			<label index="function1">Function #1</label>
+			<label index="stepone">Step One</label>
+			<label index="steptwo">Step Two</label>
+			<label index="selectpages">Please select the page you want to submit in the pagetree on the left. If you want to submit multiple pages click on the parent page and check the option &quot;include subpages&quot;.</label>
+			<label index="currentselection">This is your current selection:</label>
+			<label index="areyousure">Are you sure?</label>
+			<label index="submit">Submit</label>
+			<label index="back">back</label>
+			<label index="subpages">Include subpages</label>
+			<label index="selectedpages">The following pages will be submitted to %s</label>
+			<label index="success">Your operation was successfull.</label>
+			<label index="failure">Your operation DID NOT succeed.</label>
+			<label index="options">Options</label>
+		</languageKey>
+	</orig_text>
+</T3locallang>

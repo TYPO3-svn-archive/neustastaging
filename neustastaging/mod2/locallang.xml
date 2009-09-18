@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for module &quot;file_txneustastagingM2&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="title">File Staging</label>
+			<label index="function1">Function #1</label>
+			<label index="function2">Function #2</label>
+			<label index="function3">Function #3</label>
+			<label index="submit">Submit</label>
+			<label index="back">Back</label>
+			<label index="success">Your operation was successfull.</label>
+			<label index="failureheader">Your operation DID NOT succeed.</label>
+			<label index="failure">The following files could not be submitted:</label>
+			<label index="submitsure">Sure!</label>
+			<label index="areyousure">Are you sure?</label>
+			<label index="fields2update">The following fields are going to be updated:</label>
+			<label index="selectfiles">Please select the parent folder of the files you want to submit in the tree on the left. Then check the boxes corresponding to your changed files.</label>
+			<label index="stepone">Step One</label>
+			<label index="steptwo">Step Two</label>
+			<label index="stepthree">Step Three</label>
+			<label index="sorting">Sorting</label>
+			<label index="change">Change</label>
+			<label index="alphabetical">Alphabetical</label>
+			<label index="dateOfChange">Date Of Change</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="title">Veröffentlichung (Dateien)</label>
+			<label index="function1">Function #1</label>
+			<label index="function2">Function #2</label>
+			<label index="function3">Function #3</label>
+			<label index="submit">Absenden</label>
+			<label index="back">zurück</label>
+			<label index="success">Das Update der Dateien war erfolgreich.</label>
+			<label index="failureheader">Ein Fehler ist aufgetreten!</label>
+			<label index="failure">Die folgenden Seiten konnten NICHT übertragen werden:</label>
+			<label index="submitsure">Ja, absenden.</label>
+			<label index="areyousure">Sind Sie sicher?</label>
+			<label index="fields2update">Die folgenden Dateien werden übertragen und aktualisiert:</label>
+			<label index="selectfiles">Bitte wählen Sie den Eltern-Ordner der Seiten, die Sie übertragen möchten im Baum links aus. Aktivieren Sie danach die Checkboxen der Dateien oder Ordner, die Sie &amp;uuml;bertragen möchten.</label>
+			<label index="stepone">Schritt 1 von 3</label>
+			<label index="steptwo">Schritt 2 von 3</label>
+			<label index="stepthree">Schritt 3 von 3</label>
+		</languageKey>
+	</data>
+	<orig_hash type="array">
+		<languageKey index="de" type="array">
+			<label index="title" type="integer">136733616</label>
+			<label index="function1" type="integer">209170062</label>
+			<label index="function2" type="integer">109930407</label>
+			<label index="function3" type="integer">258031659</label>
+			<label index="submit" type="integer">172833558</label>
+			<label index="back" type="integer">5603241</label>
+			<label index="success" type="integer">158016512</label>
+			<label index="failureheader" type="integer">190410690</label>
+			<label index="failure" type="integer">189187680</label>
+			<label index="submitsure" type="integer">141693257</label>
+			<label index="areyousure" type="integer">120169752</label>
+			<label index="fields2update" type="integer">184992286</label>
+			<label index="selectfiles" type="integer">109669447</label>
+			<label index="stepone" type="integer">18838212</label>
+			<label index="steptwo" type="integer">162659035</label>
+			<label index="stepthree" type="integer">168363143</label>
+		</languageKey>
+	</orig_hash>
+	<orig_text type="array">
+		<languageKey index="de" type="array">
+			<label index="title">File Staging</label>
+			<label index="function1">Function #1</label>
+			<label index="function2">Function #2</label>
+			<label index="function3">Function #3</label>
+			<label index="submit">Submit</label>
+			<label index="back">Back</label>
+			<label index="success">Your operation was successfull.</label>
+			<label index="failureheader">Your operation DID NOT succeed.</label>
+			<label index="failure">The following files could not be submitted:</label>
+			<label index="submitsure">Sure!</label>
+			<label index="areyousure">Are you sure?</label>
+			<label index="fields2update">The following fields are going to be updated:</label>
+			<label index="selectfiles">Please select the parent folder of the files you want to submit in the tree on the left. Then check the boxes corresponding to your changed files.</label>
+			<label index="stepone">Step One</label>
+			<label index="steptwo">Step Two</label>
+			<label index="stepthree">Step Three</label>
+		</languageKey>
+	</orig_text>
+</T3locallang>
