@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for module &quot;help_txneustastagingM3&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="title">Staging Log</label>
+			<label index="log">Log</label>
+			<label index="notstagedyetpages">Not yet staged pages:</label>
+			<label index="notstagedyetfiles">Not yet staged files:</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="title">Veröffentlichung (Log)</label>
+			<label index="log">Log</label>
+			<label index="notstagedyetpages">Bisher nicht auf dem Produktionsserver aktualisierte Seiten:</label>
+			<label index="notstagedyetfiles">Bisher nicht auf dem Produktionsserver aktualisierte Dateien:</label>
+		</languageKey>
+	</data>
+	<orig_hash type="array">
+		<languageKey index="de" type="array">
+			<label index="title" type="integer">119671665</label>
+			<label index="log" type="integer">216055409</label>
+			<label index="notstagedyetpages" type="integer">196064606</label>
+			<label index="notstagedyetfiles" type="integer">198719595</label>
+		</languageKey>
+	</orig_hash>
+	<orig_text type="array">
+		<languageKey index="de" type="array">
+			<label index="title">Staging Log</label>
+			<label index="log">Log</label>
+			<label index="notstagedyetpages">Not yet staged pages:</label>
+			<label index="notstagedyetfiles">Not yet staged files:</label>
+		</languageKey>
+	</orig_text>
+</T3locallang>
